@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Gulp Practice Site</title>
+</head>
+<body>
+
+	<h1>This File Should Not Copy</h1>
+
+	<p>
+		I am a bad file. Do not copy me!
+	</p>
+
+</body>
+</html>
