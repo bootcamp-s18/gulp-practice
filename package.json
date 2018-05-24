@@ -6,12 +6,17 @@
   "directories": {
     "doc": "docs"
   },
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+  "license": "ISC"
 }
