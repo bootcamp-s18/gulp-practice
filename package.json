@@ -9,6 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.4",
     "gulp": "^3.9.1",
     "gulp-inject": "^4.3.2",
     "gulp-sass": "^4.0.1",
