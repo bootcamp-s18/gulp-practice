@@ -21,7 +21,7 @@ gulp.task('sass', function() {
 
 gulp.task('inject', function() {
 	var targets = gulp.src('app/**/*.+(htm|html)');
-	var sources = gulp.src(['dist/css/**/*.css'], {read: false});
+	var sources = gulp.src(['css/**/*.css'], {read: false});
 	return targets.pipe(inject(sources))
 		.pipe(gulp.dest('dist/'));
 });
